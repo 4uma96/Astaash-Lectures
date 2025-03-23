@@ -1,0 +1,26 @@
+site_name: "4uma"
+# theme:
+#   name: null
+#   custom_dir: 'cinder'
+#   language: ua 
+# hide:
+#   - navigation
+theme:
+  name: material
+  palette:
+    scheme: slate  # або "dracula" якщо хочеш інший варіант
+
+nav:
+- Головна: index.md
+- Щитова магія: Щитова магія/index.md
+- Стихійна магія: Стихійна магія/index.md
+- Світла магія: Світла магія/index.md
+- Побутова магія: Побутова магія/index.md
+- Зіллєваріння: Зіллєваріння/index.md
+
+# extra_css:
+#   - stylesheets/extra.css
+
+
+
+

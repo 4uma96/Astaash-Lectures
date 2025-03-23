@@ -1,0 +1,21 @@
+/* .md-sidebar--primary {
+    display: none;
+}
+.md-content {
+    margin-left: 0;
+} */
+/* body {
+    background: rgb(0, 0, 0);
+    --md-default-bg-color: rgb(0, 0, 0);
+  } */
+
+/* body {
+    background: url("paper.jpeg") center center;
+    background-size: cover;
+} */
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #5ae4aa;
+    --md-default-fg-color: rgba(255, 255, 255, 0.82);
+}
+
